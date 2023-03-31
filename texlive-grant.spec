@@ -1,6 +1,6 @@
 Name:		texlive-grant
 Version:	56852
-Release:	1
+Release:	2
 Summary:	Classes for formatting federal grant proposals
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/grant
